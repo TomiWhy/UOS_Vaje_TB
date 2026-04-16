@@ -1,6 +1,6 @@
 {
   "$schema": "node_modules/wrangler/config-schema.json",
-  "name": "cloudflare-worker-api",
+  "name": "uos-vaje-tb2",
   "main": "index.js",
   "compatibility_date": "2026-04-15"
 }
